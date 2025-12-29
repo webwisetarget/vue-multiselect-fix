@@ -1,3 +1,7 @@
+<mark>
+Fork for personal use. As it needs to be modified to fit the work, please go to the Official. https://github.com/shentao/vue-multiselect
+</mark>
+
 # vue-multiselect
 
 ## Documentation for version 3 (Compatible with Vue 3)
